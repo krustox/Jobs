@@ -1,0 +1,14 @@
+Monday 4th of September 2017 05:36:41 PM: ldap banco\atorres4 MDCJ008
+Friday 20th of October 2017 09:38:41 PM: ldap banco\msquicci INPJN200
+Wednesday 22nd of November 2017 10:00:12 AM: ldap banco\atorres4 CREJ109
+Thursday 7th of December 2017 05:38:22 PM: ldap banco\spereira mutj0050
+Thursday 7th of December 2017 05:39:02 PM: ldap banco\spereira mutj005a
+mutj005c
+Thursday 7th of December 2017 05:39:50 PM: ldap banco\spereira mutj005a
+Thursday 7th of December 2017 05:40:41 PM: ldap banco\spereira mutj005c
+Thursday 7th of December 2017 05:40:59 PM: ldap banco\spereira mutj005d
+Thursday 7th of December 2017 05:41:12 PM: ldap banco\spereira mutj005e
+Thursday 7th of December 2017 05:41:25 PM: ldap banco\spereira mutj0055
+Thursday 7th of December 2017 05:41:43 PM: ldap banco\spereira mutj0060
+Thursday 7th of December 2017 05:41:54 PM: ldap banco\spereira mutj0062
+Monday 11th of December 2017 11:48:09 PM: ldap banco\spereira ctej011

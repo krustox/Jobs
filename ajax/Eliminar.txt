@@ -1,0 +1,2 @@
+Monday 25th of September 2017 02:05:51 PM: DELETE FROM "JOBS_CRITICOS"."JOBS_DIA" WHERE "nombre_job" = 'MSTJTLF1'
+Monday 25th of September 2017 02:06:46 PM: DELETE FROM "JOBS_CRITICOS"."JOBS_DIA" WHERE "nombre_job" = 'MSTJTLF1'

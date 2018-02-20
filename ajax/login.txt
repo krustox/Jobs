@@ -1,0 +1,12 @@
+Thursday 31st of August 2017 08:08:45 PM: Inicio Sesión: banco\atorres4 ldap
+Friday 1st of September 2017 09:53:53 AM: Inicio Sesión: banco\montivoli ldap
+Monday 4th of September 2017 05:36:30 PM: Inicio Sesión: banco\atorres4 ldap
+Wednesday 6th of September 2017 10:16:29 AM: Inicio Sesión: banco\montivoli ldap
+Wednesday 13th of September 2017 12:02:49 PM: Inicio Sesión: banco\montivoli ldap
+Monday 25th of September 2017 02:04:40 PM: Inicio Sesión: banco\atorres4 ldap
+Friday 20th of October 2017 09:38:19 PM: Inicio Sesión: banco\msquicci ldap
+Wednesday 22nd of November 2017 09:59:17 AM: Inicio Sesión: banco\atorres4 ldap
+Wednesday 22nd of November 2017 09:59:38 AM: Inicio Sesión: banco\atorres4 ldap
+Thursday 7th of December 2017 05:37:29 PM: Inicio Sesión: banco\spereira ldap
+Monday 11th of December 2017 11:47:59 PM: Inicio Sesión: banco\spereira ldap
+Tuesday 20th of February 2018 12:31:40 PM: Inicio Sesión: banco\montivoli ldap

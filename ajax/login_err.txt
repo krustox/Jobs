@@ -1,0 +1,4 @@
+Friday 20th of October 2017 09:37:57 PM: banco\msquicci No pudo ingresar
+Friday 20th of October 2017 09:38:00 PM: banco\ Usuario no Autorizado
+Friday 20th of October 2017 09:38:03 PM: banco\BANCO\msquicci Usuario no Autorizado
+Wednesday 22nd of November 2017 09:59:08 AM: banco\atorres4 No pudo ingresar

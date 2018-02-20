@@ -1,0 +1,1 @@
+Monday 25th of September 2017 02:06:37 PM: ldap banco\atorres4 INSERT INTO "JOBS_CRITICOS"."JOBS_DIA" VALUES ('MSTJTLF1',16,00) 
